@@ -1,6 +1,6 @@
 {
-  "name": "nordicnrf52",
-  "title": "Nordic nRF52",
+  "name": "nordicnrf52_custom",
+  "title": "Nordic nRF52 Custom",
   "description": "The nRF52 Series are built for speed to carry out increasingly complex tasks in the shortest possible time and return to sleep, conserving precious battery power. They have a Cortex-M4F processor which makes them quite capable Bluetooth Smart SoCs.",
   "homepage": "https://www.nordicsemi.com/Products/nRF52-Series-SoC",
   "license": "Apache-2.0",
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/platformio/platform-nordicnrf52.git"
+    "url": "https://github.com/a-v-s/platform-nordicnrf52"
   },
-  "version": "9.1.0",
+  "version": "9.1.1",
   "frameworks": {
     "arduino": {
       "package": "framework-arduinonordicnrf5",
